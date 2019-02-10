@@ -1,0 +1,8 @@
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Model\bin\Release\netcoreapp2.1\Icatu.Employee.API.Model.deps.json
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Model\bin\Release\netcoreapp2.1\Icatu.Employee.API.Model.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Model\bin\Release\netcoreapp2.1\Icatu.Employee.API.Model.pdb
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Model\obj\Release\netcoreapp2.1\Icatu.Employee.API.Model.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Model\obj\Release\netcoreapp2.1\Icatu.Employee.API.Model.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Model\obj\Release\netcoreapp2.1\Icatu.Employee.API.Model.AssemblyInfo.cs
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Model\obj\Release\netcoreapp2.1\Icatu.Employee.API.Model.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Model\obj\Release\netcoreapp2.1\Icatu.Employee.API.Model.pdb

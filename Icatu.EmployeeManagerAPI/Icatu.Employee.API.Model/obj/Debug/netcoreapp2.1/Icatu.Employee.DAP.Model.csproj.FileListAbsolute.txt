@@ -1,0 +1,9 @@
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Icatu.Employee.DAP.Model.deps.json
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Icatu.Employee.DAP.Model.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Icatu.Employee.DAP.Model.pdb
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Icatu.Employee.DAP.Model.csprojAssemblyReference.cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Icatu.Employee.DAP.Model.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Icatu.Employee.DAP.Model.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Icatu.Employee.DAP.Model.AssemblyInfo.cs
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Icatu.Employee.DAP.Model.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Icatu.Employee.DAP.Model.pdb

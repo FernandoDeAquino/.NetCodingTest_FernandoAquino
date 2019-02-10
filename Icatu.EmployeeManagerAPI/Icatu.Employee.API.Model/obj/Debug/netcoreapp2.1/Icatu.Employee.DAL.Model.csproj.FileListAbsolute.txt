@@ -1,0 +1,8 @@
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Icatu.Employee.DAL.Model.deps.json
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Icatu.Employee.DAL.Model.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Icatu.Employee.DAL.Model.pdb
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Icatu.Employee.DAL.Model.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Icatu.Employee.DAL.Model.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Icatu.Employee.DAL.Model.AssemblyInfo.cs
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Icatu.Employee.DAL.Model.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Icatu.Employee.DAL.Model.pdb

@@ -1,0 +1,12 @@
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Seguranca\bin\Release\netcoreapp2.1\Icatu.Employee.API.Seguranca.deps.json
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Seguranca\bin\Release\netcoreapp2.1\Icatu.Employee.API.Seguranca.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Seguranca\bin\Release\netcoreapp2.1\Icatu.Employee.API.Seguranca.pdb
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Seguranca\bin\Release\netcoreapp2.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Seguranca\bin\Release\netcoreapp2.1\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Seguranca\obj\Release\netcoreapp2.1\Icatu.Employee.API.Seguranca.csprojAssemblyReference.cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Seguranca\obj\Release\netcoreapp2.1\Icatu.Employee.API.Seguranca.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Seguranca\obj\Release\netcoreapp2.1\Icatu.Employee.API.Seguranca.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Seguranca\obj\Release\netcoreapp2.1\Icatu.Employee.API.Seguranca.AssemblyInfo.cs
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Seguranca\obj\Release\netcoreapp2.1\Icatu.Employee.API.Seguranca.csproj.CopyComplete
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Seguranca\obj\Release\netcoreapp2.1\Icatu.Employee.API.Seguranca.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Seguranca\obj\Release\netcoreapp2.1\Icatu.Employee.API.Seguranca.pdb

@@ -1,0 +1,7 @@
+﻿@model FuncApi
+
+<li class="list-group-item my-3 mx-5 border-0">
+    <a asp-action="Detalhes" asp-controller="Funcionario" asp-route-id="@Model.Id">
+        <img class="livro img-fluid" src="/Funcionario/ImagensCapa/@Model.Id" alt="@Model.Nome" data-id="@Model.Id">
+    </a>
+</li>

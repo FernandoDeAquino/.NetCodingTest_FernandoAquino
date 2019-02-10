@@ -1,0 +1,9 @@
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Usuarios\bin\Release\netcoreapp2.0\Icatu.Employee.API.Usuarios.deps.json
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Usuarios\bin\Release\netcoreapp2.0\Icatu.Employee.API.Usuarios.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Usuarios\bin\Release\netcoreapp2.0\Icatu.Employee.API.Usuarios.pdb
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Usuarios\obj\Release\netcoreapp2.0\Icatu.Employee.API.Usuarios.csprojAssemblyReference.cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Usuarios\obj\Release\netcoreapp2.0\Icatu.Employee.API.Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Usuarios\obj\Release\netcoreapp2.0\Icatu.Employee.API.Usuarios.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Usuarios\obj\Release\netcoreapp2.0\Icatu.Employee.API.Usuarios.AssemblyInfo.cs
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Usuarios\obj\Release\netcoreapp2.0\Icatu.Employee.API.Usuarios.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\Icatu.EmployeeManagerAPI\Icatu.Employee.API.Usuarios\obj\Release\netcoreapp2.0\Icatu.Employee.API.Usuarios.pdb
